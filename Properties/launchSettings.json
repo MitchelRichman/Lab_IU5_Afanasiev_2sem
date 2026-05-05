@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lab": {
+      "commandName": "Project",
+      "commandLineArgs": "text.txt\r\n"
+    }
+  }
+}
